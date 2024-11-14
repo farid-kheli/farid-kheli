@@ -18,7 +18,7 @@ Welcome to my GitHub! I’m a passionate developer with a knack for creating imp
   
 # 📫 Get in Touch!
 + LinkedIn: www.linkedin.com/in/mohamed-farid-khelile-cherfi-3142ab27b
-+ Twitter: @CherfiKhel36726
++ Twitter: @Farid_Kelil
 + Email: khelil.cherfi.farid@gmail.com
 
 # 🌱 Fun Fact
