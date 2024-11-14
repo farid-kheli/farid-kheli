@@ -1,16 +1,25 @@
-## Hi there 👋
+#  Hi there, I'm Khelil Cherfi Mohamed Farid ! 👋
 
-<!--
-**farid-kheli/farid-kheli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m a passionate developer with a knack for creating impactful digital experiences. Here’s a bit about me and my work!
 
-Here are some ideas to get you started:
+# 🌟 About Me
++ 👨‍💻 Full Stack Developer specializing in Laravel, React, and Web Development.
++ 🎓 Skilled in JavaScript, PHP, HTML, CSS, SQL, and more.
++ 🌱 Currently learning advanced networking and Cisco configurations with Packet Tracer.
++ 🌐 Building responsive, user-friendly applications with a focus on elegant design and efficient code.
+# 📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Your GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top languages" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🚀 Projects & Highlights
++ Anthos Elegance - A fashion e-commerce website, crafted to bring elegance and style online.
++ Networking Labs - Practical network configuration projects using Cisco Packet Tracer.
++ Portfolio Site - A responsive, multi-page portfolio website showcasing my latest work and skills.
+
+  
+# 📫 Get in Touch!
++ LinkedIn: www.linkedin.com/in/mohamed-farid-khelile-cherfi-3142ab27b
++ Twitter: @CherfiKhel36726
++ Email: khelil.cherfi.farid@gmail.com
+
+# 🌱 Fun Fact
+Did you know? Coding is a mix of creativity and logic, just like playing a musical instrument or solving puzzles!
