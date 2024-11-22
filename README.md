@@ -7,12 +7,21 @@ Welcome to my GitHub! I’m a passionate developer with a knack for creating imp
 + 🎓 Skilled in JavaScript, PHP, HTML, CSS, SQL, and more.
 + 🌱 Currently learning advanced networking and Cisco configurations with Packet Tracer.
 + 🌐 Building responsive, user-friendly applications with a focus on elegant design and efficient code.
+# known Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,php,laravel,react,html,css,sql,py,c,cpp" alt="Tech Stack" />
+</p>
+
 # 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farid-kheli&show_icons=true&theme=radical" alt="Your GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid-kheli&layout=compact&theme=radical&langs_count=10" alt="Top languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=farid-kheli&theme=radical" alt="GitHub Streak Stats" />
+</p>
 
 
 
