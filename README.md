@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m a passionate developer with a knack for creating imp
 + 🌐 Building responsive, user-friendly applications with a focus on elegant design and efficient code.
 # known Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,laravel,react,html,css,sql,py,c,cpp" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,php,laravel,react,html,css,sql,py,c,bash,cpp" alt="Tech Stack" />
 </p>
 
 # 📈 GitHub Stats
