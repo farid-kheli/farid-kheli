@@ -18,7 +18,6 @@ Welcome to my GitHub! I’m a passionate developer with a knack for creating imp
   <img src="https://github-readme-stats.vercel.app/api?username=farid-kheli&show_icons=true&theme=radical" alt="Your GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farid-kheli&layout=compact&theme=radical&langs_count=10" alt="Top languages" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=farid-kheli&theme=radical" alt="GitHub Streak Stats" />
 </p>
